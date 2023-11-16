@@ -4,7 +4,6 @@ smoke detection: https://www.kaggle.com/datasets/deepcontractor/smoke-detection-
 
 fires outbreaks: https://www.kaggle.com/datasets/aliceadativa/queimadas-brasil-2020?select=Focos_2020-01-01_2020-12-31.csv
 
-
 ### Requisitos da prova
 
 - Tamanho da base (número de linhas)
